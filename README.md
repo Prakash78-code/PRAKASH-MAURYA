@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c7332ce-50bb-49f8-9acf-14684b462577" width="250" style="border-radius:50%"/>![Uploading prakash image.png…]()
+  <img src="https://github.com/user-attachments/assets/0c7332ce-50bb-49f8-9acf-14684b462577" width="250" style="border-radius:50%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Prakash Maurya</h1>
 <h3 align="center">A passionate Web Developer 🚀</h3>
 
